@@ -5,11 +5,11 @@ import os
 import glob
 
 lut={}
-lut["hat"] =0
-lut["vest"]       =1
-lut["goggles"]    =2
-lut["glove"]       =3
-lut["shoe"]     =4
+lut["class1"] =0
+lut["class2"]       =1
+lut["class3"]    =2
+lut["class4"]       =3
+lut["class5"]     =4
 
 
 def convert_coordinates(size, box):
