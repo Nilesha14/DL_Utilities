@@ -1,0 +1,11 @@
+HOW TO USE: STEP BY STEP
+
+STEP 1: Create a new environment: conda create -n wh_image_scrape python==3.6.9
+STEP 2: Activate the environment: conda activate wh_image_scrape
+STEP 3: Install the Libraries: 1.pip install selenium
+                               2. pip install pillow
+                               3. pip install requests
+                               4. pip install jupyter notebook
+STEP 4 : Next adding the folder path ( Eg : cd C:\WH\image_scrapping
+STEP 5:Run JUPYTER NOTEBOOK
+ 
